@@ -1,7 +1,12 @@
 eecs731-to_be_or_not
 ==============================
 
-A short description of the project.
+Dalton Hahn (2762306)
+
+Goal
+------------
+
+Bleh
 
 Project Organization
 ------------
